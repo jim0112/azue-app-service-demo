@@ -1,0 +1,43 @@
+.main {
+  position: relative;
+  padding-top: 2vh;
+}
+
+.input {
+  position: absolute;
+}
+
+.Button1 {
+  left: 45%;
+  background-color: orange !important;
+}
+
+.Button2 {
+  left: -5%;
+  background-color: orange !important;
+}
+
+.Button3 {
+  left: 83.5%;
+  background-color: orange !important;
+}
+
+.item {
+  padding-left: 1.2vh;
+}
+
+
+.header {
+  margin-top: 1vh;
+  position: relative;
+}
+
+.logout{
+  background-color: orange !important;
+  left: 74%;
+}
+
+.login{
+  background-color: orange !important;
+  left: 1%;
+}
